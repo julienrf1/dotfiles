@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julienrivetfrugier87@gmail.com
+	name = julien rivet
